@@ -1,0 +1,22 @@
+F 220,111,119
+
+WE ./includes/texture/windoz.xpm
+NO ./includes/texture/colonne.xpm
+
+SO ./includes/texture/anarchy.xpm
+
+
+
+EA ./includes/texture/monster.xpm
+
+C 225,111,200
+
+
+11111111
+1100000111111111111111111
+1000E00000000000000000001
+1110111111111111111111111
+11111
+11101
+11101
+11111
